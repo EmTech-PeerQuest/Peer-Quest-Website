@@ -1,0 +1,6 @@
+git add .
+git commit -m "1st commit"
+git push -u origin main
+
+npm install next react react-dom --legacy-peer-deps
+npm start dev
